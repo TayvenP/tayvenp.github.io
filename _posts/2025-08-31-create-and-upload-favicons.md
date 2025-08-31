@@ -1,4 +1,9 @@
-# How to Create and Upload Favicons for Your GitHub Pages Site
+---
+title: "How I Created and Uploaded Favicons to my GitHub Pages website"
+date: 2025-08-31 15:30:00 +1000
+categories: [setup, jekyll, chirpy]
+tags: [jekyll, github, chirpy, favicon, tutorial]
+---
 
 A **favicon** (short for *favorite icon*) is the small image that appears in your browser tab, bookmarks, and mobile shortcuts.  
 Adding a custom favicon is a simple way to make your site look professional and instantly recognisable.
