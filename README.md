@@ -21,7 +21,7 @@ I specialise in **Blue Team operations**, **incident response**, **secure cloud 
 
 
 *Built with the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy)*
-
+<!-- 
 *Built with the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy)*
 
 ## Chirpy Starter
@@ -32,7 +32,7 @@ I specialise in **Blue Team operations**, **incident response**, **secure cloud 
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
-<!-- 
+
 ## Chirpy Starter
 
 
