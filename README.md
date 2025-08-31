@@ -19,9 +19,9 @@ I specialise in **Blue Team operations**, **incident response**, **secure cloud 
 
 ---
 
-<!-- 
-*Built with the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy)*
 
+*Built with the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy)*
+<!-- 
 ## Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
