@@ -21,8 +21,11 @@ I specialise in **Blue Team operations**, **incident response**, **secure cloud 
 
 
 *Built with the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy)*
+
 *Starter Page Found Here [Chirpy Jekyll Starter Page](https://github.com/cotes2020/chirpy-starter)*
+
 *Use my How To Guide [Chirpy Jekyll Setup - How To Guide](https://tayvenp.github.io/posts/chirpy/)*
+
 
 <!-- 
 *Built with the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy)*
