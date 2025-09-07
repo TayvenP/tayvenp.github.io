@@ -22,7 +22,10 @@ Updating your devices is one of the quickest and easiest ways to protect yoursel
 ## What To Do This Week
 - **Turn on automatic updates** for all your devices. Phones, laptops, tablets, and smart tech.
 - **Schedule time for bigger upgrades** that may take longer to install.
-- **Assess old tech** that can no longer receive security patches.
+- **Assess outdated technology** that no longer receives security patches.  
+  - If it’s no longer needed, remove it.  
+  - If it must be kept, reduce risk by disconnecting it from the home network and the internet.
+
 
 Learn more: [actnowstaysecure.gov.au/cybermonth2025](https://actnowstaysecure.gov.au/cybermonth2025)
 
