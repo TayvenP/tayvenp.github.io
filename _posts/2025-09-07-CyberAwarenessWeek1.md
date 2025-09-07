@@ -30,7 +30,7 @@ Learn more: [actnowstaysecure.gov.au/cybermonth2025](https://actnowstaysecure.go
 
 ## How to Update Your Devices
 
-### Windows PC (Windows 10 & 11)
+### Windows PC (Windows 10 & 11) 
 1. Click **Start** > **Settings** > **Windows Update**.
 2. Select **Check for updates**.
 3. If updates are available, click **Download & install**.
