@@ -6,8 +6,6 @@ tags: [cybersecurity, updates, devices, tutorial, awareness-month]
 ---
 
 
-# Cyber Security Awareness Month: Week 1 - Update & Protect Your Devices
-
 Cyber criminals are always looking for weaknesses in our devices. Software developers and phone manufacturers regularly release free **security updates** to fix these vulnerabilities. By installing these updates, you close off an easy entry point attackers could use.
 
 Updating your devices is one of the quickest and easiest ways to protect yourself online.
