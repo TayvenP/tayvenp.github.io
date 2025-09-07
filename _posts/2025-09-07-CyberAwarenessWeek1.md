@@ -1,12 +1,12 @@
 ---
-title: "Cyber Security Awareness Month: Week 1 – Update & Protect Your Devices"
+title: "Cyber Security Awareness Month: Week 1 - Update & Protect Your Devices"
 date: 2025-09-07 15:27:00 +1000
 categories: [awareness, security, patching]
 tags: [cybersecurity, updates, devices, tutorial, awareness-month]
 ---
 
 
-# Cyber Security Awareness Month: Week 1 – Update & Protect Your Devices
+# Cyber Security Awareness Month: Week 1 - Update & Protect Your Devices
 
 Cyber criminals are always looking for weaknesses in our devices. Software developers and phone manufacturers regularly release free **security updates** to fix these vulnerabilities. By installing these updates, you close off an easy entry point attackers could use.
 
