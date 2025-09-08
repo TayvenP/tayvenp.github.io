@@ -14,9 +14,9 @@ timezone: Australia/Sydney
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cyber Security Documented By Tayven # the main title
+title: TPS Report # the main title
 
-tagline: Cyber Security Analyst # it will display as the subtitle
+tagline: Tayven P Security # it will display as the subtitle
 
 description: >-
   Personal site and blog about cybersecurity, technology, and projects.
