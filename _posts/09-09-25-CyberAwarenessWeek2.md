@@ -106,9 +106,8 @@ Not all attacks are digital — sometimes people just watch you type.
 - At work, lock your device when stepping away, even for a moment.  
 
 **Quick Lock Shortcut (Windows):**
-```plaintext
-Windows + L
-```
+Press `Windows + L` to lock your screen.
+
 ---
 
 ## Step 6: Use AI Tools Safely
