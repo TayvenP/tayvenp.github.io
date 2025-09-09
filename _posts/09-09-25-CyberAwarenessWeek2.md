@@ -123,11 +123,11 @@ AI can be a powerful assistant, but it’s not always safe to share sensitive in
 
 ---
 
-## Australian Guidance & Resources
-- [Creating strong passphrases - ACSC guide](https://www.cyber.gov.au/acsc/view-all-content/publications/creating-strong-passphrases)  
-- [Password manager advice](https://www.cyber.gov.au/acsc/view-all-content/publications/password-managers)  
-- [Multi‑factor authentication](https://www.cyber.gov.au/acsc/view-all-content/publications/multi-factor-authentication)  
-- [Secure use of Artificial Intelligence](https://www.cyber.gov.au/acsc/view-all-content/publications/secure-use-artificial-intelligence)  
+## 🇦🇺 Key Australian Government Cyber Security Websites
+
+- [Australian Cyber Security Centre (ACSC)](https://www.cyber.gov.au) – Official government hub for cyber security alerts, advice, and resources for individuals, businesses, and government.  
+- [Australian Signals Directorate – Cyber Security](https://www.asd.gov.au/about/what-we-do/cyber-security) – Information on ASD’s role in national cyber defence, threat intelligence, and security frameworks like the ISM.  
+- [Act Now, Stay Secure](https://www.actnowstaysecure.gov.au) – Public awareness campaign with simple, everyday cyber‑safe actions for Australians.  
 
 ---
 
