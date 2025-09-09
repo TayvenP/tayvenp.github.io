@@ -31,9 +31,16 @@ Forget short, complex passwords you can’t remember. **Passphrases** are longer
 ## Step 2: Turn On Multi‑Factor Authentication (MFA)
 Even the strongest passphrase can be stolen. MFA adds a second lock on the door.
 
-**Best MFA options (in order of strength):**
-1. **Authenticator app** (e.g., Microsoft Authenticator, Google Authenticator)  
-2. **Hardware security key** (e.g., YubiKey)  
+## MFA Options
+
+1. **Authenticator App**  
+   Use a time-based one-time password (TOTP) app for strong, phishing-resistant codes.  
+   - [Microsoft Authenticator](https://www.microsoft.com/security/mobile-authenticator-app)  
+   - [Google Authenticator](https://support.google.com/accounts/answer/1066447)  
+
+2. **Hardware Security Key**  
+   A physical device that provides the highest level of phishing resistance.  
+   - [YubiKey (Yubico)](https://www.yubico.com/) 
 3. **SMS codes** (better than nothing, but less secure)
 
 Turn on MFA for:
