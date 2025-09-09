@@ -95,15 +95,20 @@ A password manager securely stores all your passphrases in one encrypted vault, 
 
 ---
 
-## Step 5: In Public - Watch Out for Shoulder Surfing & Physical Device Security
-Not all attacks are digital, sometimes people just watch you type.
+## Step 5: In Public – Watch Out for Shoulder Surfing & Physical Device Security
+
+Not all attacks are digital — sometimes people just watch you type.
 
 **How to prevent it:**
-- In public shield your screen and keyboard when entering credentials.  
+- In public, shield your screen or keyboard when entering credentials.  
 - Be extra cautious in public spaces such as cafés, airports, or trains.  
-- Don’t leave your devices on down on tables or unattended in public places.
-- At work lock your device when stepping away, even for a moment. Use Windows + L.
+- Don’t leave your devices down on tables or unattended in public places.  
+- At work, lock your device when stepping away, even for a moment.  
 
+**Quick Lock Shortcut (Windows):**
+```plaintext
+Windows + L
+```
 ---
 
 ## Step 6: Use AI Tools Safely
