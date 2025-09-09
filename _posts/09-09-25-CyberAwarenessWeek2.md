@@ -95,9 +95,9 @@ A password manager securely stores all your passphrases in one encrypted vault, 
 
 ---
 
-## Step 5: In Public – Watch Out for Shoulder Surfing & Physical Device Security
+## Step 5: In Public - Watch Out for Shoulder Surfing & Physical Device Security
 
-Not all attacks are digital — sometimes people just watch you type.
+Not all attacks are digital, sometimes people just watch you type.
 
 **How to prevent it:**
 - In public, shield your screen or keyboard when entering credentials.  
