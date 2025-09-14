@@ -106,8 +106,10 @@ For situations involving unverified contacts, callers, or other unsolicited appr
 
 ---
 
+
 > Not every message is what it seems.  
 > **Pause. Check. Protect.**
+
 
 ---
 
