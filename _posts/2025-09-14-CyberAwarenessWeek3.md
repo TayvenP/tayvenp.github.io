@@ -1,5 +1,5 @@
 ---
-title: "Cyber Security Awareness Month: Week 3 – Outsmart Scams, Think Before You Click, and Detect Deepfakes"
+title: "Cyber Security Awareness Month: Week 3 - Outsmart Scams, Think Before You Click, and Detect Deepfakes"
 date: 2025-09-14 21:30:00 +1000
 categories: [awareness, security, scams]
 tags: [cybersecurity, phishing, deepfakes, scams, awareness-month, tutorial]
