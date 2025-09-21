@@ -80,3 +80,7 @@ Set your profile to private and turn on login alerts. That alone blocks most cas
 ---
 
 **Action for this week:** Spend five minutes reviewing your privacy settings on your main social media account. You'll be surprised how much you can lock down in one sitting.
+
+---
+
+Remember, you don't have to use social media at all if it doesn't serve you. Stepping back - whether that means deleting old accounts, taking a break, or choosing not to join in the first place - is a valid choice. Your privacy, focus, and wellbeing often benefit more from being selective about where you spend your time online than from chasing every new platform.
