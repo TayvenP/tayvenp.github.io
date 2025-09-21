@@ -30,6 +30,7 @@ Forget short, complex passwords you can’t remember. **Passphrases** are longer
 
 ## Step 2: Turn On Multi‑Factor Authentication (MFA)
 Even the strongest passphrase can be stolen. MFA adds a second lock on the door.
+Multi-Factor Authentication (MFA) is a simple but powerful way to protect your accounts by requiring more than just a password to log in. It combines at least two factors - something you know (like a password), something you have (like a phone app or security key), or something you are (like a fingerprint or face scan). Even if your password is stolen, MFA makes it much harder for attackers to break in, which is why turning it on for email, banking, and cloud storage is one of the fastest and most effective security upgrades you can make.
 
 ## MFA Options
 
