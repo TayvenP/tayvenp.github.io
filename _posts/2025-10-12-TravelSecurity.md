@@ -5,9 +5,6 @@ categories: [awareness, travel, security]
 tags: [cybersecurity, travel-tips, devices, vpn, awareness-month, mobile-security]
 ---
 
-
-# How I Protected My Cybersecurity While Traveling Overseas: My Top 10 Tips
-
 Traveling is exciting! It also comes with digital risks, protecting your data and devices is essential. On my recent trip, I made cybersecurity a priority. Here are the **top 10 things I did (and recommend)** to stay safe while on the move.
 
 ---
