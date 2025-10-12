@@ -17,11 +17,11 @@ Hotel and airport Wi-Fi networks are often unsecured. I used a **VPN (Virtual Pr
 ### 2. Secure Your iPhone with a Wrist Lanyard  
 To prevent theft or accidental loss, I attached a **lanyard to my iPhone** and wore it around my wrist. I also made sure **not to walk around with my phone out**, especially in unfamiliar areas, keeping it hidden helped me avoid looking like a distracted tourist.  
  
-I got these **cool travel lanyards from Amazon**, and they work with almost any device as long as you have a case. The **anchor tab** goes inside the case and pops out under the USB-C charging port on your phone, allowing you to attach any lanyard you want. No need for a special case, these anchor tabs are easy to find on Amazon and usually come with a lanyard included.
+I got these **travel lanyards from Amazon**, and they work with almost any device as long as you have a case. The **anchor tab** goes inside the case and pops out under the USB-C charging port on your phone, allowing you to attach any lanyard you want. No need for a special case, these anchor tabs are easy to find on Amazon and usually come with a lanyard included.
 
-### 3. Before You Travel: Set Up and Securely Store Accounts and Recovery Phrases
-I stored my passwords and sensitive info in **my favourite password manager**, so I didn't need to type or remember them while traveling and I could login to my accounts on my phone using Face ID and the password manager rather then typing in pins and passwords in public. 
-I prepared for the worst by **setting up and securely storing my account recovery phrases** before I left. This meant that if I lost my phone, I could still access my accounts once I got home.
+### 3. Before You Travel: Set Up and Securely Store Accounts and Recovery Phrases  
+I stored my passwords and sensitive info in **my favourite password manager**, so I didn't need to type or remember them while traveling. I could log in to my accounts on my phone using Face ID and the password manager, rather than typing in PINs and passwords in public.  
+I prepared for the worst by **setting up and securely storing my account recovery phrases** before I left
 
 ### 4. I Never Have Auto-Join Hotspot Enabled
 To avoid accidentally connecting to insecure networks, I always keep **auto-join hotspot disabled** on my devices.
@@ -50,5 +50,7 @@ I printed out **copies of my travel documents** and left a set at home with some
 Travel is incredible, you get to meet new people, and create unforgettable memories. Whether you're wandering through ancient streets, navigating busy airports, or just soaking up the vibe of a new city, it's all part of the adventure.
 
 And let's be honest, **travel is even more fun when you're not stressing about lost passports, hacked accounts, or sketchy Wi-Fi**. A little cybersecurity prep goes a long way in keeping your trip smooth, safe, and stress-free.
+
+I also made a conscious effort to **travel light**, only bringing the essential computing devices I needed. For me, that meant just my **phone and a watch**, no laptop, no tablet. It kept things simple, reduced the risk of loss or theft, and made security easier to manage.
 
 So pack your bags, charge your power bank, secure your sling bag (*European carryall*), and enjoy the journey. The world is waiting, and now you're ready to explore it securely.
