@@ -17,8 +17,10 @@ Traveling is exciting! It also comes with digital risks, protecting your data an
 ### 1. Use a VPN on Public Wi-Fi
 Hotel and airport Wi-Fi networks are often unsecured. I used a **VPN (Virtual Private Network)** service like Proton VPN to encrypt my internet traffic, protecting my data from hackers and snoops.
 
-### 2. Secure Your iPhone with a Wrist Lanyard
-To prevent theft or accidental loss, I attached a **lanyard to my iPhone** and wore it around my wrist. I also made sure **not to walk around with my phone out**, especially in unfamiliar areas, keeping it hidden helped me avoid looking like a distracted tourist. I stored my passwords and sensitive info in **my favourite password manager**, so I didn't need to type or remember them while traveling.
+### 2. Secure Your iPhone with a Wrist Lanyard  
+To prevent theft or accidental loss, I attached a **lanyard to my iPhone** and wore it around my wrist. I also made sure **not to walk around with my phone out**, especially in unfamiliar areas, keeping it hidden helped me avoid looking like a distracted tourist.  
+I stored my passwords and sensitive info in **my favourite password manager**, so I didn't need to type or remember them while traveling.  
+I got these **cool travel lanyards from Amazon**, and they work with almost any device as long as you have a case. The **anchor tab** goes inside the case and pops out under the USB-C charging port on your phone, allowing you to attach any lanyard you want. No need for a special case, these anchor tabs are easy to find on Amazon and usually come with a lanyard included.
 
 ### 3. Before You Travel: Set Up and Securely Store Recovery Phrases
 I prepared for the worst by **setting up and securely storing my account recovery phrases** before I left. This meant that if I lost my phone, I could still access my accounts once I got home.
