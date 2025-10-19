@@ -24,7 +24,7 @@ This space documents the **next phase of my career and certification journey**, 
 
 ---
 
-## Microsoft Learn
+## Microsoft Learn Profile
 
 [![Microsoft Learn Icon](/assets/img/achievements/microsoftlearnicon.png)](https://learn.microsoft.com/en-us/users/tayvenpyers-1553/)
 
