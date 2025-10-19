@@ -35,3 +35,4 @@ This space documents the **next phase of my career and certification journey**, 
 *My achievement badge earned for completing the Hack The Box Web Penetration Tester Pathway.*  
 
 [![HTB Achievement Badge](/assets/img/achievements/htbachievement.png)](https://academy.hackthebox.com/path/preview/web-penetration-tester)
+
