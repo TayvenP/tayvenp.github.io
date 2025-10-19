@@ -17,7 +17,7 @@ This space documents the **next phase of my career and certification journey**, 
 
 **CSU**  
 - Graduate Certificate in Cyber Security
-- Graduate Certificate in Cloud & Virtualisation
+- Graduate Certificate in Cloud Computing and Virtualisation
 
 **UoN**  
 - Bachelor of Information Technology
